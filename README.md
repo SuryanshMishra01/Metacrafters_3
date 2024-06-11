@@ -14,9 +14,11 @@ The program consists of:
 ## Executing Program
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/. Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the "myToken" file in my repo with a .sol extension. Now compile and deploy the program. All done !!
 ## Interacting with Program
-![image](https://github.com/SuryanshMishra01/Metacrafters_3/assets/116947777/299e310a-fc86-4465-a9a8-342f8056c245)
+![image](https://github.com/SuryanshMishra01/Metacrafters_3/assets/116947777/1e6f2be5-2bc0-4ee1-96df-7f0b4cfab3c3)
+
 After deployment, we can interact with the contract by calling the functions that will appear on the left as shown in the screenshot. Also, we can interact using different addresses provided by Remix IDE.
-![image](https://github.com/SuryanshMishra01/Metacrafters_3/assets/116947777/909ffa30-d6e6-48d7-bd41-d4553b2a2f7b)
+
+![image](https://github.com/SuryanshMishra01/Metacrafters_3/assets/116947777/a084fb4f-729a-47f8-9718-a9064657bdbe)
 
 # Author 
 Suryansh Mishra @suryanshmishra0704@gmail.com
